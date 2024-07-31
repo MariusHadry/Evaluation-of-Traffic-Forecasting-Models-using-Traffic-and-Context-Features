@@ -1,0 +1,14 @@
+GitPython==3.1.31
+matplotlib==3.7.1
+numpy==1.24.1
+pandas==1.5.3
+pymongo==4.3.3
+pytorch_lightning==2.0.0
+ray==2.3.0
+scikit_learn==1.2.2
+scipy==1.10.1
+shutup==0.2.0
+torch==2.0.0+cu118
+torchmetrics==0.11.4
+tqdm==4.65.0
+hyperopt==0.2.7

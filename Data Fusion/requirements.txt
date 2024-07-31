@@ -1,0 +1,4 @@
+pandas==1.5.3
+psycopg2==2.9.9
+psycopg2_binary==2.9.7
+tqdm==4.65.0

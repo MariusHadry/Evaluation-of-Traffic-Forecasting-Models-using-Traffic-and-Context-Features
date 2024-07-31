@@ -9,6 +9,4 @@ The overall workflow is:
 5. Use Data Fusion Tool to create training data in the form of *.csv files
 6. Train and evaluate models using the code in `Baselines/` and `DeepLearning/`
 
-![image](images/APIN Workflow-Data.jpg)
-
-
+![image](images/APIN%20Workflow-Data.jpg)
